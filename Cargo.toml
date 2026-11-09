@@ -1,0 +1,8 @@
+[package]
+name = "gpui-todo-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gpui-unofficial = "1.27.0"
+gpui_platform = { package = "gpui-platform-gpui-unofficial", version = "1.27.0" }
